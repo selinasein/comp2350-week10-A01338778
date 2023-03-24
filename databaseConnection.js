@@ -14,7 +14,7 @@ const dbConfigLocal = {
   host: "localhost",
   user: "root",
   password: "MySQLtpdls7^*",
-  database: "database",
+  database: "week10_lab",
   multipleStatements: false,
 };
 
